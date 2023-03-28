@@ -4,8 +4,6 @@ title: what is a digital garden?
 
 Welcome to my digital garden! This is where I explore my ideas and share them publicly so others can read and provide feedback to help me [[improve my thinking]].
 
-## what is a digital garden?
-
 a digital garden is a non linear personal website that doesn't follow the conventional rules of blogging or SEO. I came across this concept for the first time recently and wanted to convert some of my earlier writing into this format. 
 
 
