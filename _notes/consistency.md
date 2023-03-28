@@ -1,7 +1,9 @@
 ---
-title: Consistency is key
+title: consistency
 ---
 
-Show up. Do the work. Be consistent.
+Show up.
+Do the work.
+Be consistent.
 
-Then go take a look at the [[Your first note|first note]].
+Then go take a look at [[what is a digital garden?]].

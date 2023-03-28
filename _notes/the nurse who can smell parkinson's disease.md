@@ -1,5 +1,5 @@
 ---
-title: "the nurse who can smell parkinsons diseae"
+title: the nurse who can smell parkinsons disease
 ---
 
 ## Joy Milne
