@@ -6,7 +6,7 @@ title: "the nurse who can smell parkinsons diseae"
 
 Joy is a retired nurse from Perth, Scotland. And she has an incredible skill; she can smell Parkinson’s disease.
 
-Yep, that’s right, she can ***smell*** Parkinson’s disease.
+Yep, that’s right, she can **_smell_** Parkinson’s disease.
 
 ## What’s Parkinson’s Disease?
 
@@ -64,7 +64,7 @@ They asked these 12 people to wear a t-shirt for the day and then drop it off at
 
 ## The results
 
-The results were ***incredible.*** Joy almost got a perfect score. Out of the 12 T-shirt’s, she was correct on 11 of them.
+The results were **_incredible._** Joy almost got a perfect score. Out of the 12 T-shirt’s, she was correct on 11 of them.
 
 The only error was a false positive - she identified one of the control group as having Parkinson’s, when they didn’t.
 
@@ -104,6 +104,4 @@ This wouldn’t have been possible without Joy Milne and her ‘super-smeller’
 
 Here’s Joy on BBC breakfast 👇
 
-https://youtu.be/GyL-nHBlgaY
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyL-nHBlgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/GyL-nHBlgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
