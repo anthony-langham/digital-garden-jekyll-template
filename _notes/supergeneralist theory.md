@@ -26,7 +26,7 @@ Regardless of who we decide to credit, this metaphor is somewhere between 30 and
 
 Being this old isn’t *inherently* bad (I’m the same age 😩), but it *is* out of date, and here’s why:
 
-Technology, Society, (and more recently - Office work) have all been ***completely*** transformed since the 1980s.
+Technology, Society, (and more recently - Office work) have all been **_completely_** transformed since the 1980s.
 
 ![photograph of an ibm pc from 1985 running windows 1.0](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81ca7257-5f17-47a3-9a89-42b05bc9c82e_1020x990.jpeg "photograph of an ibm pc from 1985 running windows 1.0")
 

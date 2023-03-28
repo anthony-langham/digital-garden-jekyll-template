@@ -4,7 +4,7 @@ title: /then
 permalink: /then
 ---
 
-# then
+# then ⏮
 
 Prior to [[now]] this is what i've done
 

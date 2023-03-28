@@ -4,7 +4,7 @@ title: /now
 permalink: /now
 ---
 
-# now
+# now 🎯
 
 What I'm doing now
 

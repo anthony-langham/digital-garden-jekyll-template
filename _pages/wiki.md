@@ -4,9 +4,11 @@ title: wiki
 permalink: /wiki
 ---
 
-# Welcome to my Wiki
+# wiki 🌱
 
-This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.
+This is my digital garden, my small piece of the internet to write and think freely, without having to consider how to write a perfect blog post.
+
+Some of the writing is bad. Some is okay. Some parts are missing. It's a work in progress, much like a real garden. Feel free to take a look around!
 
 {% include notes_graph.html %}
 
