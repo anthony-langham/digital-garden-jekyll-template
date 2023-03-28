@@ -1,3 +1,6 @@
+---
+title: Agile Governance
+---
 
 At Suvera we’re building a more effective, but still informal, structure around governance and safety. People of any experience, function or seniority are able to raise ideas, concerns and expectations - regularly and proactively.
 
