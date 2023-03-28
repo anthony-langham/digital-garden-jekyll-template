@@ -1,18 +1,17 @@
 ---
 layout: page
-title: wiki
-permalink: /wiki
+title: garden
+permalink: /garden
 ---
 
-# wiki 🌱
+# 🌱 garden
 
 This is my digital garden, my small piece of the internet to write and think freely, without having to consider how to write a perfect blog post.
 
 Some of the writing is bad. Some is okay. Some parts are missing. It's a work in progress, much like a real garden. Feel free to take a look around!
-
-{% include notes_graph.html %}
-
-<strong>Recently updated</strong>
+<br>
+<br>
+<strong>Recent updates:</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -22,9 +21,13 @@ Some of the writing is bad. Some is okay. Some parts are missing. It's a work in
     </li>
   {% endfor %}
 </ul>
+<br>
+<br>
+<strong>Graph / Map:</strong>
+{% include notes_graph.html %}
 
-<style>
+<!-- <style>
   .wrapper {
     max-width: 46em;
   }
-</style>
+</style> -->

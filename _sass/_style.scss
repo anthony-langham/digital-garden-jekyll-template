@@ -33,7 +33,7 @@ footer {
   margin: 2em 0;
   font-size: 0.8em;
   color: mix($color-text, white, 80%);
-  padding-top: 1em;
+  padding-top: 20em;
 }
 
 img {
@@ -107,6 +107,15 @@ a {
 nav {
   margin: 1em 0 3em;
 }
+
+// .topnav {
+//   overflow: hidden;
+//   background-color: rgb(251, 251, 251);
+//   position: fixed; /* Set the navbar to fixed position */
+//   top: 0; /* Position the navbar at the top of the page */
+//   width: 100%; /* Full width */
+//   margin: 1em 1em 3em;
+// }
 
 #notes-entry-container {
   display: grid;

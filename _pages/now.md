@@ -4,7 +4,7 @@ title: /now
 permalink: /now
 ---
 
-# now 🎯
+# 🎯 now
 
 What I'm doing now
 
@@ -18,4 +18,6 @@ _Location:_ Manchester, UK
 
 - I have been experimenting in learning to code, such as creating this site. Please see the [[colophon]] for more information on how this created.
 
-- If you want to see what I was previously up to please see my [[then]] page.
+- You can find me on [`linkedin`](https://www.linkedin.com/in/dranthonylangham/) or occasionally on [`twitter`](https://twitter.com/anthonylangham) and even more rarely on [`github`](https://github.com/anthony-langham)
+
+- If you want to see my previous experiences go to -> [[then]]
