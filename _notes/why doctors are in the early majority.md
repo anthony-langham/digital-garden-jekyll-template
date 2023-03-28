@@ -1,15 +1,10 @@
 ---
-title: "why doctors are actually early adopters"
+title: why doctors are in the early majority
 ---
 
-There’s a common misconception in Britain that GPs are inept or unreasonably skeptical about technology.
+There’s a common misconception in the UK that GPs (general practitioners) are inept or unreasonably skeptical about technology. Newsflash: I’ve never met a GP who wears a cardigan or plays golf during work hours. Moreover, I'll set out my argument that British GPs are actually the earliest adopters of healthtech in the world. 
 
-Newsflash: I’ve never met a GP who wears a cardigan or plays golf during work hours
-
-
-Moreover, I'll set out my argument that British GPs are actually the earliest adopters of healthtech in the world. 🙂
-
-## The origin of the EHR
+### The origin of the EHR
 
 Do you know when & where the first primary care electronic health record (EHR) in the world was launched?
 
@@ -24,21 +19,17 @@ Even more incredible is that this first occurred in **1970.** Yep that was the
 
 Dr Preece continued to research new uses for computers in medicine, co-designing a widely used drug database. He also wrote a book titled ["The Use of Computers in General Practice"](https://www.amazon.co.uk/Use-Computers-General-Practice-1e-dp-044306394X/dp/044306394X/ref=dp_ob_title_bk) 
 
-Just to repeat this point, Dr Preece was using an EHR _**50 years**_ ago.
+Just to repeat this point, Dr Preece was using an EHR _**50 years**_ ago. He would definitely be described as someone to whom [[supergeneralist theory]] applies
 
-The last time I checked the majority of NHS hospitals are **still** using pen and paper on wards and in out-patient departments.
+The last time I checked the majority of NHS hospitals are **still** using pen and paper on wards and in out-patient departments. This is gradually changing though...
 
-[NB. I’m happy to be corrected on this one 🙃]
-
-## Pandemic + Healthtech
+### Pandemic + Healthtech
 
 When COVID-19 struck the UK in the first quarter of 2020, Primary Care doctors were quick to adopt a telemedicine first approach - as per NHSE guidelines, because we were concerned about vulnerable patients being exposed to COVID in the waiting room. 
 
 Don’t believe the negative press about GPs from the likes of the Times and The Daily Mail - NHS general practice was open throughout, we were working, we were providing care to those who needed it - home visits for palliative care patients or elderly patients struggling and isolated. 
 
-We may not have had the front door unlocked, but you should probably have been staying at home anyway.
-
-In addition to face-to-face appointments that were **clinically** indicated, we called, texted, emailed, instant messaged and even video called our patients.
+We may not have had the front door unlocked, but you should probably have been staying at home anyway. In addition to face-to-face appointments that were **clinically** indicated, we called, texted, emailed, instant messaged and even video called our patients.
 
 This digital transformation was a long time in the making, but we essentially adopted this new way of working overnight and continued to provide high-quality holistic care for our patients. I worked throughout 2020 and through the pandemic, and let me tell you - it was brutal. 
 
@@ -51,7 +42,7 @@ But we were certainly way ahead of the pack within the NHS, so much so that I’
 
 
 
-## References
+### References
 
 http://europepmc.org/article/MED/12424171
 
