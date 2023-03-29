@@ -9,3 +9,5 @@ I say we have an informal structure instead of flat one, it’s because I’m of
 It’s a common startup paradox to self identify as a ‘flat structure’ when it suits (avoiding governance, process and due diligence) but keeping a firmly entrenched hierarchy in place (just without the accountability).
 
 That’s part of the reason that I truly believe that Suvera is the most promising healthtech startup in Europe right now. We’re building a diverse and empathetic healthcare business from the ground up.
+
+[[Disciplined Agile]]
