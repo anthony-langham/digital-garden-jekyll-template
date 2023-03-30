@@ -121,4 +121,4 @@ $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 
 [[what is a digital garden?]]
 
-[[what is a colophon]]
+[[What is a Colophon?]]

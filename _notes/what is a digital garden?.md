@@ -1,12 +1,10 @@
 ---
-title: what is a digital garden?
+title: What is a Digital Garden?
 ---
 
-### Welcome to my digital garden! 🌱 
+A digital garden is a non linear set of written notes that doesn't follow the conventional rules of blogging or SEO. I came across this concept for the first time recently and wanted to convert some of my earlier notes into this format to help me [[improve my thinking]].
 
-A digital garden is a non linear writing website that doesn't follow the conventional rules of blogging or SEO. I came across this concept for the first time recently and wanted to convert some of my earlier writing into this format to help me [[improve my thinking]].
-
-## 🔍  Examples
+## 🔍 Examples
 
 [`refined mind`](https://refinedmind.co/)
 
@@ -18,7 +16,7 @@ A digital garden is a non linear writing website that doesn't follow the convent
 
 [`Mark Bernstein's Hypertext Garden`](http://www.eastgate.com/garden/Enter.html)
 
-## 📚  Resources
+## 📚 Resources
 
 [`The Garden and the Stream: A Technopastoral`](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) by Mike Caulfield – the original source of the concept of **Digital Gardening**
 
@@ -29,6 +27,3 @@ A digital garden is a non linear writing website that doesn't follow the convent
 [[how to use this template]]
 
 [[colophon]]
-
-
-
