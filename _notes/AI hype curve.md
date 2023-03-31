@@ -8,4 +8,4 @@ Hopefully if you’re reading this you know about hype cycles in tech. If you do
 
 Clinicians have known intuitively for …ever that silicone valleys (and Kensington) obsession with AI replacing doctors, is bs. It’s smoke and mirrors. I’ve been giving this a lot of thought and im 💯 confident to say that AI will not replace Nhs GPs until AI reaches Singularity…and to be fair…we all know how that ends….
 
-Therefore its a great time to think about [[how to get a job in healthtech]]
+Therefore its a great time to think about [[How to get a Job in Healthtech]]

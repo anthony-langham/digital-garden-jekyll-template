@@ -4,7 +4,7 @@ title: how to use this template
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
+
 
 ### Link syntax
 
@@ -119,6 +119,6 @@ $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 
 ### Next steps
 
-[[what is a digital garden?]]
+[[what is a digital garden]]
 
-[[What is a Colophon?]]
+[[What is a Colophon]]

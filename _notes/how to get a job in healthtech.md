@@ -1,5 +1,5 @@
 ---
-title: how to get a job in healthtech
+title: How to get a Job in Healthtech
 ---
 
 ### Be honest

@@ -34,4 +34,4 @@ At Suvera we understand that each of the 5 key business components should be tre
 
 The idea of a MDTT Meeting (Multidisciplinary Tech Team Meeting) - Is a nod to the efficiency and collaborative nature of the NHS.
 
-[[how to get a job in healthtech]]
+[[How to get a Job in Healthtech]]

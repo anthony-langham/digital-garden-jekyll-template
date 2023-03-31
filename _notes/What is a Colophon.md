@@ -1,5 +1,5 @@
 ---
-title: What is a Colophon?
+title: What is a Colophon
 ---
 
 A [`colophon`](/colophon) can be defined as

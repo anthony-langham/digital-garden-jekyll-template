@@ -10,4 +10,4 @@ It’s a common startup paradox to self identify as a ‘flat structure’ when 
 
 That’s part of the reason that I truly believe that Suvera is the most promising healthtech startup in Europe right now. We’re building a diverse and empathetic healthcare business from the ground up.
 
-[[Disciplined Agile]]
+[[Agile]]
