@@ -2,7 +2,7 @@
 title: What is a Digital Garden
 ---
 
-A digital garden is a non linear set of written notes that doesn't follow the conventional rules of blogging or SEO. I came across this concept for the first time recently and wanted to convert some of my earlier notes into this format to help me [[improve my thinking]].
+A digital garden is a non linear set of written notes that doesn't follow the conventional rules of blogging or SEO. I came across this concept for the first time recently and wanted to convert some of my earlier notes into this format to help me [[Improve my thinking]].
 
 ## 🔍 Examples
 
@@ -24,6 +24,6 @@ A digital garden is a non linear set of written notes that doesn't follow the co
 
 [`Maggie Appleton's Github`](https://github.com/MaggieAppleton/digital-gardeners)
 
-[[how to use this template]]
+[[How to use this template]]
 
 [[colophon]]

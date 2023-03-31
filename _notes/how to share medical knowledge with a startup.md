@@ -1,5 +1,5 @@
 ---
-title: how to share medical knowledge with a start up
+title: How to share medical knowledge with a start up
 ---
 
 If you’re a medical expert, medical Director or are fulfilling a similar function in a healthtech startup you’re definitely going to have to come up with an answer to this question

@@ -1,5 +1,5 @@
 ---
-title: why doctors are in the early majority
+title: Why Doctors are in the Early Majority
 ---
 
 There’s a common misconception in the UK that GPs (general practitioners) are inept or unreasonably skeptical about technology. Newsflash: I’ve never met a GP who wears a cardigan or plays golf during work hours. Moreover, I'll set out my argument that British GPs are actually the earliest adopters of healthtech in the world. 
@@ -19,7 +19,7 @@ Even more incredible is that this first occurred in **1970.** Yep that was the
 
 Dr Preece continued to research new uses for computers in medicine, co-designing a widely used drug database. He also wrote a book titled ["The Use of Computers in General Practice"](https://www.amazon.co.uk/Use-Computers-General-Practice-1e-dp-044306394X/dp/044306394X/ref=dp_ob_title_bk) 
 
-Just to repeat this point, Dr Preece was using an EHR _**50 years**_ ago. He would definitely be described as someone to whom [[supergeneralist theory]] applies
+Just to repeat this point, Dr Preece was using an EHR _**50 years**_ ago. He would definitely be described as someone to whom [[Supergeneralist]] applies
 
 The last time I checked the majority of NHS hospitals are **still** using pen and paper on wards and in out-patient departments. This is gradually changing though...
 

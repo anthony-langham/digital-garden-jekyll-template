@@ -1,5 +1,8 @@
 ---
+title: Sync Obsidian Vaults for Free
 ---
+
+
 
 
 I am experiementing using obsidian as my writing tool for this digital garden. The problem i face is that i want to be able to sync my obsidian files across multiple devices. 

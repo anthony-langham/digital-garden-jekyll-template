@@ -18,7 +18,7 @@ Working in a healthtech startup will expose you to a lot of people who are as cl
 
 ### Find common ground.
 
-You need to be as close to a [[supergeneralist theory|Supergeneralist]] as you can. Learn the acronyms. Read around the topics, look for similarities in workflows.
+You need to be as close to a [[Supergeneralist|Supergeneralist]] as you can. Learn the acronyms. Read around the topics, look for similarities in workflows.
 
 ### Find your unique superpowers.
 
